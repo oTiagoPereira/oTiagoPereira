@@ -1,4 +1,4 @@
-### Opa, Me chamo Tiago
+# Opa, Me chamo Tiago
 
 - Atualmente estou cursando Ciências da computação (1º período)
 
