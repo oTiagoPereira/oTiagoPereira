@@ -1,6 +1,6 @@
 # Opa, Me chamo Tiago
 
-- Atualmente estou cursando Ciências da computação (2º semestre)
+- Atualmente estou cursando Ciências da computação (3º semestre)
 
 ## Estou aprendendo:
 <div>
