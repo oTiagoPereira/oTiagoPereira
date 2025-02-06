@@ -1,20 +1,26 @@
-# Opa, Me chamo Tiago
+# 💻 Olá, eu sou Tiago!  
+### 🚀 Estudante de Ciência da Computação | Focado em Back-end  
 
-- Atualmente estou cursando Ciências da computação (3º semestre)
+Sou estudante de Ciência da Computação, atualmente no 3º período, e estou sempre buscando aprender e evoluir na área de desenvolvimento. Embora tenha mais experiência em front-end, meu foco principal é me especializar no desenvolvimento back-end.  
 
-## Estou aprendendo:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70" />          
-</div>
+### 📚 O que estou estudando atualmente?  
+- **Linguagens e Tecnologias:** JavaScript, Node.js, React, Java  
+- **Conceitos:** Programação Orientada a Objetos (POO)  
+- **Ferramentas:** Git & GitHub  
 
-## Contatos:
+### 🛠️ Habilidades  
+✅ JavaScript | Node.js | React | Java  
+✅ Git & GitHub  
+✅ HTML | CSS  
 
-<div>
-<a href="https://instagram.com/etiagu" target="_blank" > <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
-<a href = "mailto:tiagopereira14200@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
-<a href="https://www.linkedin.com/in/otiagopereiraa/" target="_blank" ><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>   
-</div>
+### 🎯 Objetivo  
+Meu principal objetivo é aprofundar meus conhecimentos em back-end, estudando arquitetura de software, banco de dados e desenvolvimento escalável.  
 
+### 📫 Onde me encontrar?  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otiagopereiraa/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/etiagu)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagopereira14200@gmail.com)  
 
+---
+
+✨ **"Sempre aprendendo e evoluindo!"** 🚀  
