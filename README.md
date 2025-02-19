@@ -11,7 +11,7 @@ Sou estudante de Ciência da Computação, atualmente no 3º período, e estou s
 - **Ferramentas:** Git & GitHub
 
 ### 🛠️ Habilidades  
-✅ JavaScript | TypeScript | Node.js | React | Java | React Native 
+✅ JavaScript | TypeScript | Node.js | React | Java | React Native   
 ✅ Git & GitHub  
 ✅ HTML | CSS  
 ✅ Scrum | Kanban 
