@@ -4,12 +4,12 @@
 Sou estudante de Ciência da Computação, atualmente no 3º período, e estou sempre buscando aprender e evoluir na área de desenvolvimento. Embora tenha mais experiência em front-end, meu foco principal é me especializar no desenvolvimento back-end.  
 
 ### 📚 O que estou estudando atualmente?  
-- **Linguagens e Tecnologias:** JavaScript, Node.js, React, Java  
+- **Linguagens e Tecnologias:** JavaScript, TypeScript, Node.js, React, Java  
 - **Conceitos:** Programação Orientada a Objetos (POO)  
 - **Ferramentas:** Git & GitHub  
 
 ### 🛠️ Habilidades  
-✅ JavaScript | Node.js | React | Java  
+✅ JavaScript | TypeScript | Node.js | React | Java  
 ✅ Git & GitHub  
 ✅ HTML | CSS  
 
