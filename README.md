@@ -5,16 +5,16 @@ Sou estudante de Ciência da Computação, atualmente no 3º período, e estou s
 
 ### 📚 O que estou estudando atualmente?  
 - **Linguagens e Tecnologias:** JavaScript, TypeScript, Node.js, React, Java
-- **Mobile:** Flutter, Dart, React Native  
+- **Mobile:** Flutter, Dart
 - **Banco de Dados:** PostgreSQL, MySQL, MongoDB 
 - **Conceitos:** Programação Orientada a Objetos (POO)  
 - **Ferramentas:** Git & GitHub
-- **Metodologias:** Scrum, Kanban 
 
 ### 🛠️ Habilidades  
-✅ JavaScript | TypeScript | Node.js | React | Java  
+✅ JavaScript | TypeScript | Node.js | React | Java | React Native 
 ✅ Git & GitHub  
 ✅ HTML | CSS  
+✅ Scrum | Kanban 
 
 ### 🎯 Objetivo  
 Meu principal objetivo é aprofundar meus conhecimentos em back-end, estudando arquitetura de software, banco de dados e desenvolvimento escalável.  
