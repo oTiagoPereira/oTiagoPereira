@@ -1,11 +1,10 @@
 # 💻 Olá, eu sou Tiago!  
 ### 🚀 Estudante de Ciência da Computação | Focado em Back-end  
 
-Sou estudante de Ciência da Computação, atualmente no 3º período, e estou sempre buscando aprender e evoluir na área de desenvolvimento. Embora tenha mais experiência em front-end, meu foco principal é me especializar no desenvolvimento back-end.  
+Sou estudante de Ciência da Computação, atualmente no 4º período, e estou sempre buscando aprender e evoluir na área de desenvolvimento. Embora tenha mais experiência em front-end, meu foco principal é me especializar no desenvolvimento back-end.  
 
 ### 📚 O que estou estudando atualmente?  
-- **Linguagens e Tecnologias:** JavaScript, TypeScript, Node.js, React, Java
-- **Mobile:** Flutter, Dart
+- **Linguagens e Tecnologias:** JavaScript, TypeScript, Node.js, React
 - **Banco de Dados:** PostgreSQL, MySQL, MongoDB 
 - **Conceitos:** Programação Orientada a Objetos (POO)  
 - **Ferramentas:** Git & GitHub
