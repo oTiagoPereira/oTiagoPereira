@@ -8,7 +8,7 @@
 
 ## 🌐 Sobre mim 
 
-Sou estudante de Ciência da Computação (4º semestre), focado no desenvolvimento back-end com Node.js e TypeScript.  
+Sou estudante de Ciência da Computação (5º semestre), focado no desenvolvimento back-end com Node.js e TypeScript.  
 Trabalho criando APIs escaláveis e bem estruturadas, sempre buscando boas práticas, organização e clareza no código.  
 Tenho interesse crescente em arquitetura, testes, infraestrutura e padrões modernos de desenvolvimento.
 
