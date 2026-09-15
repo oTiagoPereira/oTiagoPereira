@@ -1,14 +1,14 @@
 <h1 align="center">💻 Olá, eu sou Tiago!  
 </h1>
 <p align="center">
-  <b>Desenvolvedor Back-end em formação • Estagiário de Desenvolvimento</b><br>
+  <b>Dev Fullstack JR</b><br>
 </p>
 
 ---
 
 ## 🌐 Sobre mim 
 
-Sou estudante de Ciência da Computação (5º semestre), focado no desenvolvimento back-end com Node.js e TypeScript.  
+Sou dev JR e estudante de Ciência da Computação (6º semestre), focado no desenvolvimento Fullstack.  
 Trabalho criando APIs escaláveis e bem estruturadas, sempre buscando boas práticas, organização e clareza no código.  
 Tenho interesse crescente em arquitetura, testes, infraestrutura e padrões modernos de desenvolvimento.
 
@@ -80,9 +80,6 @@ Tenho interesse crescente em arquitetura, testes, infraestrutura e padrões mode
 - Aplicações limpas, padronizadas e fáceis de manter  
 
 ---
-
-## 🎯 Objetivo  
-Me tornar um desenvolvedor back-end sólido, dominando arquitetura, testes, banco de dados, cloud e boas práticas modernas.
 
 ---
 
